@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
-font-family: 'Roboto', sans-serif;
   }
 
   html,
@@ -11,7 +10,7 @@ font-family: 'Roboto', sans-serif;
     height: 100%;
     display: flex;
     flex-direction: column;
-    background-color: rgb(213, 247, 208);
+    background-color: rgb(130, 240, 113);
   }
   span{
     font-size: 16px;
@@ -30,7 +29,7 @@ a{
   .profile_box {
     padding: 30px;
     max-width: 350px;
-    background-color:rgb(122, 228, 163);
+    background-color:rgb(195, 245, 214);
     border-radius: 25px;
     display: flex;
     flex-direction: column;
