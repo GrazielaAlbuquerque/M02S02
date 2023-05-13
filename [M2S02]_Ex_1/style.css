@@ -1,0 +1,42 @@
+* {
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+  }
+
+  html,
+  body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(213, 247, 208);
+  }
+  span{
+    font-size: 16px;
+    text-align: center;
+  }
+  p{
+    text-align: center;
+  }
+  ol{
+    text-align: center;
+  }
+a{
+    text-align: center;
+}
+
+  .profile_box {
+    padding: 30px;
+    max-width: 350px;
+    background-color:rgb(122, 228, 163);
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #profile_img {
+    border-radius: 100px;
+    width: 180px;
+  }
